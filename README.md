@@ -1,4 +1,4 @@
-### Hi there 👋
+![banner](https://assets.ecitytech.net/static/images/github-banner01.gif)
 
 <!--
 **malexander6/malexander6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
