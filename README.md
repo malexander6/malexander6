@@ -27,7 +27,7 @@ In my free time, I enjoy reading tech blogs, participating in online coding chal
 - Email: [matt@gmail.com]
 
 
-
+[![Hits](https://hits.sh/github.com/silentsoft/hits.svg)](https://hits.sh/github.com/silentsoft/hits/)
 
 
 <!--
