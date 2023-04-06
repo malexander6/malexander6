@@ -16,10 +16,12 @@
 Here are some of the projects I have worked on:
 
 - **BiteShare:** [https://github.com/rpp2205-boc-dolomite/biteshare-app]
+- **System Design Capstone:** [https://github.com/rpp2205-sdc-danakil/matt-qa]
+- **Front End Capstone:** [https://github.com/rpp2205-fec-physical/Project-Atelier---Front-End-Capstone]
 
 ## Interests
 
-In my free time, I enjoy reading tech blogs, participating in online coding challenges, and contributing to open-source projects.
+In my free time, I enjoy hiking, riding, personal projects, and spending time with loved ones.
 
 ## Contact
 
