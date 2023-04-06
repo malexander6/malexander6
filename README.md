@@ -28,7 +28,7 @@ In my free time, I enjoy reading tech blogs, participating in online coding chal
 
 
 [![Hits](https://hits.sh/github.com/malexander6/hits.svg)](https://hits.sh/github.com/malexander6/hits/)
-[](https://api.segment.io/v1/pixel/track?data=ewogICJ3cml0ZUtleSI6ICJvTXppNEpJd2xYa1RGUDhxdnE1WUdlbkFQRkZvNVExVSIsCiAgImFub255bW91c0lkIjogdHJ1ZSwKICAiZXZlbnQiOiAiR2l0SHViIFByb2ZpbGUgVmlzaXRlZCIsCn0K)
+[DOT](https://api.segment.io/v1/pixel/track?data=ewogICJ3cml0ZUtleSI6ICJvTXppNEpJd2xYa1RGUDhxdnE1WUdlbkFQRkZvNVExVSIsCiAgImFub255bW91c0lkIjogdHJ1ZSwKICAiZXZlbnQiOiAiR2l0SHViIFByb2ZpbGUgVmlzaXRlZCIsCn0K)
 
 <!--
 **malexander6/malexander6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
