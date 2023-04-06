@@ -1,5 +1,35 @@
 ![banner](https://github.com/malexander6/malexander6-public/blob/main/banner01.gif)
 
+# Hi there, I'm Matt Alexander 👋
+
+
+## Skills
+
+[![My Skills](https://skills.thijs.gg/icons?i=js,react,html,css,mongodb,mysql,postgres,nodejs,docker,git,cloudflare,py&theme=light)](https://skills.thijs.gg)
+
+## Currently Working On
+
+[![My Skills](https://skills.thijs.gg/icons?i=ts,&theme=light)](https://skills.thijs.gg)
+
+## Projects
+
+Here are some of the projects I have worked on:
+
+- **BiteShare:** [https://github.com/rpp2205-boc-dolomite/biteshare-app]
+
+## Interests
+
+In my free time, I enjoy reading tech blogs, participating in online coding challenges, and contributing to open-source projects.
+
+## Contact
+
+- LinkedIn: [https://www.linkedin.com/in/matt-a1exander]
+- Email: [matt@gmail.com]
+
+
+
+
+
 <!--
 **malexander6/malexander6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
