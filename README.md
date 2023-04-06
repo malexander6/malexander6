@@ -24,7 +24,7 @@ In my free time, I enjoy reading tech blogs, participating in online coding chal
 ## Contact
 
 - LinkedIn: [https://www.linkedin.com/in/matt-a1exander]
-- Email: [matt@gmail.com]
+- Email: [dmalexander6@gmail.com]
 
 
 [![Hits](https://hits.sh/github.com/malexander6/hits.svg)](https://hits.sh/github.com/malexander6/hits/)
