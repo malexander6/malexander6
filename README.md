@@ -1,4 +1,4 @@
-![banner](https://github.com/malexander6/malexander6-public/blob/main/banner01.gif)
+<!-- ![banner](https://github.com/malexander6/malexander6-public/blob/main/banner01.gif) -->
 
 # Hi there, I'm Matt Alexander 👋
 
