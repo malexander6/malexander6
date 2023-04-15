@@ -7,9 +7,9 @@
 
 [![My Skills](https://skills.thijs.gg/icons?i=js,react,html,css,mongodb,mysql,postgres,nodejs,docker,git,cloudflare,py&theme=light)](https://skills.thijs.gg)
 
-## Currently Working On
+<!-- ## Currently Working On
 
-[![My Skills](https://skills.thijs.gg/icons?i=ts,&theme=light)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=ts,&theme=light)](https://skills.thijs.gg) -->
 
 ## Projects
 
