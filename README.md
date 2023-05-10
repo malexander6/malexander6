@@ -15,7 +15,7 @@
 
 Here are some of the projects I have worked on:
 
-- **BiteShare:** [https://github.com/rpp2205-boc-dolomite/biteshare-app]
+- **Blue Ocean Capstone - BiteShare App:** Live demo: [https://biteshare.ecitytech.net] Repo: [https://github.com/rpp2205-boc-dolomite/biteshare-app]
 - **System Design Capstone:** [https://github.com/rpp2205-sdc-danakil/matt-qa]
 - **Front End Capstone:** [https://github.com/rpp2205-fec-physical/Project-Atelier---Front-End-Capstone]
 
